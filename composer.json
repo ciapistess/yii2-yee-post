@@ -1,6 +1,6 @@
 {
-  "name": "yeesoft/yii2-yee-post",
-  "description": "Post Module For Yee CMS",
+  "name": "ciapistess/yii2-yup-post",
+  "description": "Post Module For Yee yup CMS",
   "license": "Apache-2.0",
   "authors": [
     {
@@ -16,7 +16,7 @@
   },
   "autoload": {
     "psr-4": {
-      "yeesoft\\post\\": ""
+      "ciapistess\\post\\": ""
     }
   }
 }
