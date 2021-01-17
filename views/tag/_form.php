@@ -1,12 +1,12 @@
 <?php
 
 use yeesoft\helpers\Html;
-use yeesoft\post\models\Tag;
+use ciapistess\post\models\Tag;
 use yeesoft\widgets\ActiveForm;
 use yeesoft\widgets\LanguagePills;
 
 /* @var $this yii\web\View */
-/* @var $model yeesoft\post\models\Tag */
+/* @var $model ciapistess\post\models\Tag */
 /* @var $form yeesoft\widgets\ActiveForm */
 ?>
 

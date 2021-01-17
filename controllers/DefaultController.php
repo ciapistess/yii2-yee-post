@@ -1,6 +1,6 @@
 <?php
 
-namespace yeesoft\post\controllers;
+namespace ciapistess\post\controllers;
 
 use yeesoft\controllers\admin\BaseController;
 use yeesoft\models\User;

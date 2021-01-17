@@ -5,12 +5,12 @@ use yeesoft\grid\GridQuickLinks;
 use yeesoft\grid\GridView;
 use yeesoft\helpers\Html;
 use yeesoft\models\User;
-use yeesoft\post\models\Post;
+use ciapistess\post\models\Post;
 use yii\helpers\Url;
 use yii\widgets\Pjax;
 
 /* @var $this yii\web\View */
-/* @var $searchModel yeesoft\post\models\search\PostSearch */
+/* @var $searchModel ciapistess\post\models\search\PostSearch */
 /* @var $dataProvider yii\data\ActiveDataProvider */
 
 $this->title = Yii::t('yee/post', 'Posts');

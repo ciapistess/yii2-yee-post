@@ -3,12 +3,12 @@
 use yeesoft\grid\GridPageSize;
 use yeesoft\grid\GridView;
 use yeesoft\helpers\Html;
-use yeesoft\post\models\Category;
+use ciapistess\post\models\Category;
 use yii\helpers\Url;
 use yii\widgets\Pjax;
 
 /* @var $this yii\web\View */
-/* @var $searchModel yeesoft\post\search\CategorySearch */
+/* @var $searchModel ciapistess\post\search\CategorySearch */
 /* @var $dataProvider yii\data\ActiveDataProvider */
 
 $this->title = Yii::t('yee/media', 'Categories');

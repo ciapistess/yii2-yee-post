@@ -1,10 +1,10 @@
 <?php
 
-namespace yeesoft\post\widgets\dashboard;
+namespace ciapistess\post\widgets\dashboard;
 
 use yeesoft\models\User;
-use yeesoft\post\models\Post;
-use yeesoft\post\models\search\PostSearch;
+use ciapistess\post\models\Post;
+use ciapistess\post\models\search\PostSearch;
 use yeesoft\widgets\DashboardWidget;
 use Yii;
 

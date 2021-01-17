@@ -1,6 +1,6 @@
 <?php
 
-namespace yeesoft\post\models;
+namespace ciapistess\post\models;
 
 use omgdef\multilingual\MultilingualTrait;
 

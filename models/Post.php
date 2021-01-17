@@ -1,6 +1,6 @@
 <?php
 
-namespace yeesoft\post\models;
+namespace ciapistess\post\models;
 
 use yeesoft\behaviors\MultilingualBehavior;
 use yeesoft\models\OwnerAccess;

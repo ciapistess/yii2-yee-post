@@ -3,12 +3,12 @@
 use yeesoft\grid\GridPageSize;
 use yeesoft\grid\GridView;
 use yeesoft\helpers\Html;
-use yeesoft\post\models\Tag;
+use ciapistess\post\models\Tag;
 use yii\helpers\Url;
 use yii\widgets\Pjax;
 
 /* @var $this yii\web\View */
-/* @var $searchModel yeesoft\post\search\TagSearch */
+/* @var $searchModel ciapistess\post\search\TagSearch */
 /* @var $dataProvider yii\data\ActiveDataProvider */
 
 $this->title = Yii::t('yee/media', 'Tags');

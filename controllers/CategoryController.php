@@ -1,11 +1,11 @@
 <?php
 
-namespace yeesoft\post\controllers;
+namespace ciapistess\post\controllers;
 
 use yeesoft\controllers\admin\BaseController;
 
 /**
- * CategoryController implements the CRUD actions for yeesoft\post\models\Category model.
+ * CategoryController implements the CRUD actions for ciapistess\post\models\Category model.
  */
 class CategoryController extends BaseController
 {

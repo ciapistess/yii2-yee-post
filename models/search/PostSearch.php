@@ -1,8 +1,8 @@
 <?php
 
-namespace yeesoft\post\models\search;
+namespace ciapistess\post\models\search;
 
-use yeesoft\post\models\Post;
+use ciapistess\post\models\Post;
 use Yii;
 use yii\base\Model;
 use yii\data\ActiveDataProvider;

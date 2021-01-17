@@ -1,11 +1,11 @@
 <?php
 
-namespace yeesoft\post\controllers;
+namespace ciapistess\post\controllers;
 
 use yeesoft\controllers\admin\BaseController;
 
 /**
- * TagController implements the CRUD actions for yeesoft\post\models\Tag model.
+ * TagController implements the CRUD actions for ciapistess\post\models\Tag model.
  */
 class TagController extends BaseController
 {

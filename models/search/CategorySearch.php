@@ -1,14 +1,14 @@
 <?php
 
-namespace yeesoft\post\models\search;
+namespace ciapistess\post\models\search;
 
-use yeesoft\post\models\Category;
+use ciapistess\post\models\Category;
 use Yii;
 use yii\base\Model;
 use yii\data\ActiveDataProvider;
 
 /**
- * CategorySearch represents the model behind the search form about `yeesoft\post\models\Category`.
+ * CategorySearch represents the model behind the search form about `ciapistess\post\models\Category`.
  */
 class CategorySearch extends Category
 {

@@ -1,12 +1,12 @@
 <?php
 
-namespace yeesoft\post\widgets;
+namespace ciapistess\post\widgets;
 
 use yii\helpers\Html;
 use yii\helpers\Json;
 use yii\web\JsExpression;
 use yii\widgets\InputWidget;
-use yeesoft\post\assets\MagicSuggestAsset;
+use ciapistess\post\assets\MagicSuggestAsset;
 
 class MagicSuggest extends InputWidget
 {

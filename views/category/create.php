@@ -3,7 +3,7 @@
 use yii\helpers\Html;
 
 /* @var $this yii\web\View */
-/* @var $model yeesoft\post\models\Category */
+/* @var $model ciapistess\post\models\Category */
 
 $this->title = Yii::t('yee/media', 'Create Category');
 $this->params['breadcrumbs'][] = ['label' => Yii::t('yee/post', 'Posts'), 'url' => ['default/index']];

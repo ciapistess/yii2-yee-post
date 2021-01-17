@@ -1,14 +1,14 @@
 <?php
 
-namespace yeesoft\post\models\search;
+namespace ciapistess\post\models\search;
 
-use yeesoft\post\models\Tag;
+use ciapistess\post\models\Tag;
 use Yii;
 use yii\base\Model;
 use yii\data\ActiveDataProvider;
 
 /**
- * TagSearch represents the model behind the search form about `yeesoft\post\models\Tag`.
+ * TagSearch represents the model behind the search form about `ciapistess\post\models\Tag`.
  */
 class TagSearch extends Tag
 {

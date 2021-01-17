@@ -6,7 +6,7 @@
  * @license http://www.apache.org/licenses/LICENSE-2.0
  */
 
-namespace yeesoft\post;
+namespace ciapistess\post;
 
 use Yii;
 
@@ -23,7 +23,7 @@ class PostModule extends \yii\base\Module
      */
     const VERSION = '0.1.0';
 
-    public $controllerNamespace = 'yeesoft\post\controllers';
+    public $controllerNamespace = 'ciapistess\post\controllers';
     public $viewList;
     public $layoutList;
 
@@ -32,14 +32,14 @@ class PostModule extends \yii\base\Module
      *
      * @var string
      */
-    public $postModelClass = 'yeesoft\post\models\Post';
+    public $postModelClass = 'ciapistess\post\models\Post';
 
     /**
      * Post search model class
      *
      * @var string
      */
-    public $postModelSearchClass = 'yeesoft\post\models\search\PostSearch';
+    public $postModelSearchClass = 'ciapistess\post\models\search\PostSearch';
 
     /**
      * Index page view
@@ -74,14 +74,14 @@ class PostModule extends \yii\base\Module
      *
      * @var string
      */
-    public $tagModelClass = 'yeesoft\post\models\Tag';
+    public $tagModelClass = 'ciapistess\post\models\Tag';
 
     /**
      * Tag search model class
      *
      * @var string
      */
-    public $tagModelSearchClass = 'yeesoft\post\models\search\TagSearch';
+    public $tagModelSearchClass = 'ciapistess\post\models\search\TagSearch';
 
     /**
      * Index tag view
@@ -116,14 +116,14 @@ class PostModule extends \yii\base\Module
      *
      * @var string
      */
-    public $categoryModelClass = 'yeesoft\post\models\Category';
+    public $categoryModelClass = 'ciapistess\post\models\Category';
 
     /**
      * Category search model class
      *
      * @var string
      */
-    public $categoryModelSearchClass = 'yeesoft\post\models\search\CategorySearch';
+    public $categoryModelSearchClass = 'ciapistess\post\models\search\CategorySearch';
 
     /**
      * Index category view
@@ -170,7 +170,7 @@ class PostModule extends \yii\base\Module
      *   Example:
      *
      *   'post' => [
-     *       'class' => 'yeesoft\post\PostModule',
+     *       'class' => 'ciapistess\post\PostModule',
      *       'viewList' => [
      *           'post' => 'View Label 1',
      *           'post_test' => 'View Label 2',

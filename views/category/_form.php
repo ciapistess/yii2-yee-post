@@ -1,12 +1,12 @@
 <?php
 
 use yeesoft\helpers\Html;
-use yeesoft\post\models\Category;
+use ciapistess\post\models\Category;
 use yeesoft\widgets\ActiveForm;
 use yeesoft\widgets\LanguagePills;
 
 /* @var $this yii\web\View */
-/* @var $model yeesoft\post\models\Category */
+/* @var $model ciapistess\post\models\Category */
 /* @var $form yeesoft\widgets\ActiveForm */
 ?>
 

@@ -3,16 +3,16 @@
 use yeesoft\helpers\Html;
 use yeesoft\media\widgets\TinyMce;
 use yeesoft\models\User;
-use yeesoft\post\models\Category;
-use yeesoft\post\models\Post;
+use ciapistess\post\models\Category;
+use ciapistess\post\models\Post;
 use yeesoft\widgets\ActiveForm;
 use yeesoft\widgets\LanguagePills;
 use yii\jui\DatePicker;
-use yeesoft\post\widgets\MagicSuggest;
-use yeesoft\post\models\Tag;
+use ciapistess\post\widgets\MagicSuggest;
+use ciapistess\post\models\Tag;
 
 /* @var $this yii\web\View */
-/* @var $model yeesoft\post\models\Post */
+/* @var $model ciapistess\post\models\Post */
 /* @var $form yeesoft\widgets\ActiveForm */
 ?>
 
